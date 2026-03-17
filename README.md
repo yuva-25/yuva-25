@@ -46,7 +46,6 @@ Git • GitHub • VS Code
 ## 📬 Contact Me
 
 📧 Email: **[yuvarani112503@gmail.com](mailto:yuvarani112503@gmail.com)**
-📍 Location: **Sivakasi, Tamil Nadu, India**
 
 ---
 
