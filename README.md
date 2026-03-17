@@ -1,38 +1,53 @@
-👋 Hi, I'm Yuvarani
+# Hi, I'm Yuvarani A 👋
 
-💻 PHP Web Developer | Backend Developer
-📍 Sivakasi, Tamil Nadu, India
+**Web Developer | PHP Developer**
 
-Passionate web developer with hands-on experience in building dynamic web applications using PHP and MySQL. I enjoy developing practical systems that solve real-world problems and improve business workflows.
+🚀 Passionate about building dynamic web applications and solving real-world problems using modern web technologies.
+🌟 PHP Web Developer | Built dynamic web applications using PHP • MySQL • HTML • CSS • JavaScript.
 
-🚀 Tech Stack
+---
 
-Frontend
+## 🔥 About Me
 
-HTML5
+💻 Web developer experienced in building database-driven web applications using PHP and MySQL
 
-CSS3
+🌐 Skilled in developing responsive UI using HTML, CSS, Bootstrap, and JavaScript
 
-Bootstrap
+📊 Experienced in implementing CRUD operations and database integration
 
-JavaScript
+🔐 Built session-based authentication systems for secure login modules
 
-Backend
+📄 Worked with PDF report generation using FPDF
+
+🏢 Completed PHP development training at **Srisoftwarez, Sivakasi**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+HTML • CSS • Bootstrap • JavaScript
+
+### Backend
 
 PHP
 
-Database
+### Database
 
 MySQL
 
-Tools
+### Tools
 
-Git
+Git • GitHub • VS Code
 
-GitHub
+---
 
-VS Code
+## 📬 Contact Me
 
-📫 Connect With Me
-📧 Email: yuvarani112503@gmail.com
-💻 GitHub: https://github.com/yuva-25
+📧 Email: **[yuvarani112503@gmail.com](mailto:yuvarani112503@gmail.com)**
+📍 Location: **Sivakasi, Tamil Nadu, India**
+
+---
+
+⭐ *Thank you for visiting my GitHub profile.* ⭐
