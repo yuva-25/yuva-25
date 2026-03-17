@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I'm Yuvarani
 
-<!--
-**yuva-25/yuva-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 PHP Web Developer | Backend Developer
+📍 Sivakasi, Tamil Nadu, India
 
-Here are some ideas to get you started:
+Passionate web developer with hands-on experience in building dynamic web applications using PHP and MySQL. I enjoy developing practical systems that solve real-world problems and improve business workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+JavaScript
+
+Backend
+
+PHP
+
+Database
+
+MySQL
+
+Tools
+
+Git
+
+GitHub
+
+VS Code
+
+📫 Connect With Me
+📧 Email: yuvarani112503@gmail.com
+💻 GitHub: https://github.com/yuva-25
